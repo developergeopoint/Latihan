@@ -1,0 +1,23 @@
+## Isilah data kalian masing - masing di bawah ini dengan menggunakan format berikut (Wajib menggunakan GIT dan dipush ke GITHUB sebagai pembelajaran)
+Nama
+NIM
+Email Github
+Username Github
+Kesibukan
+Rencana di waktu dekat
+
+=== Contoh ===
+Nama: Azfa Rihad Fathan
+NIM: 15121075
+Email Github: azfa28rihad@gmail.com
+Username Github: Azfarihadfathan
+Kesibukan: Geopoint, MBKM, Beasiswa, Capstone, akademik, senator, lomba
+Rencana di waktu dekat: Aku ingin belajar di bootcamp data analyst
+
+## Instruksi
+1.Isi data tersebut berdasarkan urutan pengisian data.
+2.Wajib menggunakan GIT terlebih dahulu ya sebagai pembelajaran.
+3.Setiap orang wajib membuat branch dengan nama masing - masing, lalu merge ke branch main atau master, bila terjadi conflict resolve secara mandiri.
+4.Isi data kalian mulai dari baris di bawah ini yaa.
+
+=== MULAI ===
