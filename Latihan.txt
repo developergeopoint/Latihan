@@ -21,3 +21,9 @@ Rencana di waktu dekat: Aku ingin belajar di bootcamp data analyst
 4.Isi data kalian mulai dari baris di bawah ini yaa.
 
 === MULAI ===
+Nama: Fadhil Hamdani Irwanto
+NIM: 151122097
+Email Github: fadhil.irwanto@gmail.com
+Username Github: fadhilirwanto
+Kesibukan: Medik ppab
+Rencana di waktu dekat: Belajar React Native
