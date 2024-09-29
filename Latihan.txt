@@ -21,18 +21,18 @@ Rencana di waktu dekat: Aku ingin belajar di bootcamp data analyst
 4.Isi data kalian mulai dari baris di bawah ini yaa.
 
 === MULAI ===
-<<<<<<< HEAD
+
 Nama                     : Arsenio Nathaniel Wiliono
 NIM                      : 15122044
 Email Github             : nio.wiliono@gmail.com
 Username Github          : arsenio1010
 Kesibukan                : Games, panit
 Rencana di waktu dekat   : Games
-=======
+
 Nama: Satya Wicaksana
 NIM: 15121043
 Email Github: azonarate@gmail.com
 Username Github: nxtlcnt
 Kesibukan: Kerja
 Rencana di waktu dekat: Ga tau
->>>>>>> 160bec8e6090a624c53c67e932a3f319c8d79e64
+
