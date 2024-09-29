@@ -21,3 +21,9 @@ Rencana di waktu dekat: Aku ingin belajar di bootcamp data analyst
 4.Isi data kalian mulai dari baris di bawah ini yaa.
 
 === MULAI ===
+Nama                     : Arsenio Nathaniel Wiliono
+NIM                      : 15122044
+Email Github             : nio.wiliono@gmail.com
+Username Github          : arsenio1010
+Kesibukan                : Games
+Rencana di waktu dekat   : Games
