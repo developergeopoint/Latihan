@@ -91,3 +91,25 @@ readBooks();
 deleteBook();
 // Membaca ulang buku setelah dihapus
 readBooks();
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//Fadhil
+createBook('Cantik itu Luka', 'Eka Kurniawan')
+createBook('Sang Pemimpi', 'Andrea Hirata')
+updateBook(3, 'Partikel', 'Dee Lestari')
+deleteBook(1)
+console.log(books)
