@@ -22,28 +22,6 @@ Rencana di waktu dekat: Aku ingin belajar di bootcamp data analyst
 
 === MULAI ===
 
-
-Nama: Fadhil Hamdani Irwanto
-NIM: 151122097
-Email Github: fadhil.irwanto@gmail.com
-Username Github: fadhilirwanto
-Kesibukan: Medik ppab
-Rencana di waktu dekat: Belajar React Native
-
-Nama                     : Arsenio Nathaniel Wiliono
-NIM                      : 15122044
-Email Github             : nio.wiliono@gmail.com
-Username Github          : arsenio1010
-Kesibukan                : Games, panit
-Rencana di waktu dekat   : Games
-
-Nama: Satya Wicaksana
-NIM: 15121043
-Email Github: azonarate@gmail.com
-Username Github: nxtlcnt
-Kesibukan: Kerja
-Rencana di waktu dekat: Ga tau
-
 Nama                     : Muhammad Naufal Ardian
 NIM                      : 15121024
 Email Github             : naufal.ard.2@gmail.com
