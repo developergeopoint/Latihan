@@ -93,9 +93,9 @@ deleteBook();
 // Membaca ulang buku setelah dihapus
 readBooks();
 
-//Satya
-createBook("Bidadari-bidadari Surga", "Tere Liye");
-createBook("Ayah", "Andrea Hirata");
-updateBook(2, "Cinta di Dalam Gelas", "Andrea Hirata");
-deleteBook(3);
-console.log(readBooks());
+//Naufal
+createBook('Negeri 5 Menara', 'Ahmad Fuadi')
+updateBook(5, 'Larung', 'Ayu Utami')
+deleteBook(4)
+console.log(readBooks())
+
