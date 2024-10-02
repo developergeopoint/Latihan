@@ -34,11 +34,21 @@
 // Simpan data di dalam array (tanpa database)
 let books = [];
 
+let bookslength = books[books.length]
+
 // Create: Tambahkan buku baru ke array
 function createBook(title, author) {
+  //FIX : books.id after deleting
+  if (books.length === 0){
   const newBook = { id: books.length + 1, title: title, author: author };
   books.push(newBook);
   console.log("Buku ditambahkan:", newBook);
+  }
+  else{
+  const newBook = { id: (books[books.length - 1].id) + 1, title: title, author: author };
+  books.push(newBook);
+  console.log("Buku ditambahkan:", newBook);
+  }
 }
 
 // Read: Tampilkan semua buku yang ada
@@ -65,8 +75,10 @@ function updateBook(id, newTitle, newAuthor) {
 function deleteBook(id) {
   const bookIndex = books.findIndex((b) => b.id === id);
   if (bookIndex !== -1) {
-    const deletedBook = books.splice(bookIndex, 1);
-    console.log("Buku dihapus:", deletedBook[0]);
+    const deletedBook = books.toSpliced(bookIndex, 1);
+    books = deletedBook;
+    //edit pake fungsi toSpliced, terus redefine array books habis didelet (asalnya gak keupdate)
+    console.log("Buku dihapus:", deletedBook);
   } else {
     console.log("Buku dengan ID tersebut tidak ditemukan.");
   }
