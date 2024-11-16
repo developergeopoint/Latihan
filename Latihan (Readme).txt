@@ -71,3 +71,10 @@ Email Github             : arvalaisit@gmail.com
 Username Github          : ArvalaHere
 Kesibukan                : Akademik, appdev, ingin buat karya tulis
 Rencana di waktu dekat   : Hibernasi
+
+Nama                     : Naufal Mumtaz Ilmi
+NIM                      : 15123045
+Email Github             : naufalmumtaz49@gmail.com
+Username Github          : mumtazilmi123
+Kesibukan                : Belajar Software, Merenung
+Rencana di waktu dekat   : Mau ngelaprak 
