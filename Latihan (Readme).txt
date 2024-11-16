@@ -64,3 +64,10 @@ Email Github             : rakhmatsenoaji@gmail.com
 Username Github          : RakhmatSenoaji
 Kesibukan                : Videografi senator, appdev, pushrank, mencari pasangan hidup
 Rencana di waktu dekat   : Update CV dan porto
+
+Nama                     : Anugrah Arya Muhajir
+NIM                      : 15121061
+Email Github             : arvalaisit@gmail.com
+Username Github          : ArvalaHere
+Kesibukan                : Akademik, appdev, ingin buat karya tulis
+Rencana di waktu dekat   : Hibernasi
